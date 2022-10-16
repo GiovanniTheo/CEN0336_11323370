@@ -1,0 +1,10 @@
+arroz
+arroz.txt
+bash_script.sh
+dna.py
+dna.py.save
+fav_chr_cuffdiff.txt
+lista_HOME.txt
+pitão.py
+problemsets
+wget-log
